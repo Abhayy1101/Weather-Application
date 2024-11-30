@@ -1,0 +1,1 @@
+A user-friendly weather application that provides real-time weather information for any location. It displays the temperature, weather conditions, and other relevant details in a clean and intuitive interface.
